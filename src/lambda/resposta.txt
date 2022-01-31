@@ -1,0 +1,7 @@
+1) Um framework é um agrupamento de soluções para problemas recorrentes.
+Diferentemente da API de programação do Java, por exemplo, um framework como o Spring
+tem soluções de alto-nível que simplificam problemas que demandariam um esforço muito
+grande, porém desnecessário (uma vez que são problemas recorrentes e com soluções
+padronizadas), para solucioná-los. Por baixo dos panos, o Spring utiliza
+a API do Java, sintetizando soluções e transformando o código-fonte da aplicação, que
+teria uma cara bem diferente se estivesse em mais baixo nível.
